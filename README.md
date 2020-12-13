@@ -1,4 +1,4 @@
-# Flutter ile covid-19 uygulaması
+# Flutter ile Covid-19 Uygulaması
 
 Uygulama Türkiye'deki güncel Covid-19 verilerini tablolar ve grafikler halinde gösterebiliyor. İstenilen tarihe göre arama yapıp o günün covid-19 verilerine erişebiliyor.
 
